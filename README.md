@@ -4,11 +4,12 @@
 
 1. [Description](#description)
 2. [Installation](#installation)
-3. [Usage](#usage)
-4. [License](#license)
-5. [Contributing](#contributing)
-6. [Tests](#tests)
-7. [Questions](#questions)
+3. [Tutorial](#tutorial)
+4. [Usage](#usage)
+5. [License](#license)
+6. [Contributing](#contributing)
+7. [Tests](#tests)
+8. [Questions](#questions)
 
 ## Description
 
@@ -17,6 +18,10 @@ This project allows you to organize and sort ysee what role your employees have 
 ## Installation
 
 Inorder to install this program you mus must have atleast node version 18+ aswell as be able to run a local mysql server and then after all of that you must run npm i in the project main directory to be able to then install all dependices of the project.
+
+## Tutorial
+
+Click this [Link](https://drive.google.com/file/d/1DnuahAdROHgLEC3RLm2ce69UIig5myVZ/view?usp=drive_link) for a video tutorial.
 
 ## Usage
 
